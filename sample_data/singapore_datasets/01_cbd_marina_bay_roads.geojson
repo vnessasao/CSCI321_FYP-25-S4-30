@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "name": "CBD Marina Bay Road Network",
+  "description": "Central Business District and Marina Bay area - Singapore's financial hub",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "raffles_place_001",
+        "road_name": "Raffles Place",
+        "highway": "primary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8510, 1.2840],
+          [103.8525, 1.2845],
+          [103.8540, 1.2850]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "shenton_way_001",
+        "road_name": "Shenton Way",
+        "highway": "primary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8460, 1.2760],
+          [103.8480, 1.2790],
+          [103.8510, 1.2840]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "robinson_road_001",
+        "road_name": "Robinson Road",
+        "highway": "primary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8480, 1.2790],
+          [103.8500, 1.2810],
+          [103.8525, 1.2845]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "marina_bay_link_001",
+        "road_name": "Marina Boulevard",
+        "highway": "primary",
+        "area": "Marina Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8540, 1.2850],
+          [103.8570, 1.2820],
+          [103.8600, 1.2800]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "bayfront_ave_001",
+        "road_name": "Bayfront Avenue",
+        "highway": "secondary",
+        "area": "Marina Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8570, 1.2820],
+          [103.8590, 1.2840],
+          [103.8610, 1.2860]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "collyer_quay_001",
+        "road_name": "Collyer Quay",
+        "highway": "secondary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8540, 1.2850],
+          [103.8530, 1.2870],
+          [103.8520, 1.2890]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "fullerton_road_001",
+        "road_name": "Fullerton Road",
+        "highway": "secondary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8520, 1.2890],
+          [103.8540, 1.2900],
+          [103.8560, 1.2910]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "esplanade_drive_001",
+        "road_name": "Esplanade Drive",
+        "highway": "secondary",
+        "area": "Marina Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8560, 1.2910],
+          [103.8580, 1.2900],
+          [103.8610, 1.2860]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "cecil_street_001",
+        "road_name": "Cecil Street",
+        "highway": "tertiary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8490, 1.2820],
+          [103.8510, 1.2840],
+          [103.8530, 1.2860]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "cross_street_001",
+        "road_name": "Cross Street",
+        "highway": "tertiary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8460, 1.2830],
+          [103.8480, 1.2840],
+          [103.8510, 1.2840]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "mce_001",
+        "road_name": "Marina Coastal Expressway",
+        "highway": "expressway",
+        "area": "Marina Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8400, 1.2720],
+          [103.8500, 1.2750],
+          [103.8600, 1.2800]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "anson_road_001",
+        "road_name": "Anson Road",
+        "highway": "secondary",
+        "area": "CBD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8440, 1.2750],
+          [103.8460, 1.2760],
+          [103.8480, 1.2790]
+        ]
+      }
+    }
+  ]
+}

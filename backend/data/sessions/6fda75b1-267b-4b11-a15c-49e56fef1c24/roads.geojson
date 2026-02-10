@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "orchard_rd_001",
+        "road_name": "Orchard Road",
+        "highway": "primary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8281, 1.3048],
+          [103.8320, 1.3055],
+          [103.8360, 1.3062]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "scotts_rd_001",
+        "road_name": "Scotts Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8320, 1.3055],
+          [103.8310, 1.3080],
+          [103.8305, 1.3100]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "somerset_rd_001",
+        "road_name": "Somerset Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8360, 1.3062],
+          [103.8380, 1.3070],
+          [103.8400, 1.3075]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tanglin_rd_001",
+        "road_name": "Tanglin Road",
+        "highway": "primary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8240, 1.3040],
+          [103.8260, 1.3044],
+          [103.8281, 1.3048]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "paterson_rd_001",
+        "road_name": "Paterson Road",
+        "highway": "tertiary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8305, 1.3100],
+          [103.8315, 1.3120],
+          [103.8325, 1.3140]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "penang_rd_001",
+        "road_name": "Penang Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8400, 1.3075],
+          [103.8420, 1.3080],
+          [103.8440, 1.3082]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "cairnhill_rd_001",
+        "road_name": "Cairnhill Road",
+        "highway": "tertiary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8325, 1.3140],
+          [103.8340, 1.3150],
+          [103.8355, 1.3155]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "newton_rd_001",
+        "road_name": "Newton Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8355, 1.3155],
+          [103.8370, 1.3165],
+          [103.8385, 1.3172]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "bukit_timah_rd_001",
+        "road_name": "Bukit Timah Road",
+        "highway": "primary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8200, 1.3200],
+          [103.8220, 1.3210],
+          [103.8240, 1.3220]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "stevens_rd_001",
+        "road_name": "Stevens Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8260, 1.3180],
+          [103.8280, 1.3185],
+          [103.8300, 1.3188]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "grange_rd_001",
+        "road_name": "Grange Road",
+        "highway": "tertiary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8281, 1.3048],
+          [103.8285, 1.3025],
+          [103.8290, 1.3010]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "river_valley_rd_001",
+        "road_name": "River Valley Road",
+        "highway": "primary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8290, 1.3010],
+          [103.8310, 1.2995],
+          [103.8330, 1.2980]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "kim_seng_rd_001",
+        "road_name": "Kim Seng Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8330, 1.2980],
+          [103.8350, 1.2970],
+          [103.8370, 1.2965]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "havelock_rd_001",
+        "road_name": "Havelock Road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8370, 1.2965],
+          [103.8400, 1.2955],
+          [103.8430, 1.2948]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "clemenceau_ave_001",
+        "road_name": "Clemenceau Avenue",
+        "highway": "primary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8400, 1.3075],
+          [103.8420, 1.3060],
+          [103.8440, 1.3045]
+        ]
+      }
+    }
+  ]
+}
