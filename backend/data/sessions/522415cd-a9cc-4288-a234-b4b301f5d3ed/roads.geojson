@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "name": "Woodlands North Road Network",
+  "description": "Woodlands and Northern Singapore - Gateway to Malaysia via Causeway",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "woodlands_ave_1_001",
+        "road_name": "Woodlands Avenue 1",
+        "highway": "primary",
+        "area": "Woodlands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7850, 1.4350],
+          [103.7880, 1.4370],
+          [103.7910, 1.4390]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "woodlands_causeway_001",
+        "road_name": "Woodlands Causeway",
+        "highway": "primary",
+        "area": "Woodlands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7650, 1.4480],
+          [103.7700, 1.4500],
+          [103.7750, 1.4520]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "woodlands_centre_rd_001",
+        "road_name": "Woodlands Centre Road",
+        "highway": "secondary",
+        "area": "Woodlands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7750, 1.4520],
+          [103.7800, 1.4450],
+          [103.7850, 1.4350]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "admiralty_rd_001",
+        "road_name": "Admiralty Road",
+        "highway": "secondary",
+        "area": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7910, 1.4390],
+          [103.7930, 1.4420],
+          [103.7950, 1.4450]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "sembawang_rd_001",
+        "road_name": "Sembawang Road",
+        "highway": "primary",
+        "area": "Sembawang"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8200, 1.4200],
+          [103.8100, 1.4250],
+          [103.8000, 1.4300]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "yishun_ave_1_001",
+        "road_name": "Yishun Avenue 1",
+        "highway": "primary",
+        "area": "Yishun"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8350, 1.4150],
+          [103.8300, 1.4180],
+          [103.8200, 1.4200]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "yishun_central_001",
+        "road_name": "Yishun Central",
+        "highway": "secondary",
+        "area": "Yishun"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8300, 1.4180],
+          [103.8320, 1.4220],
+          [103.8340, 1.4260]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "sle_woodlands_001",
+        "road_name": "Seletar Expressway",
+        "highway": "expressway",
+        "area": "Yishun"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8500, 1.4000],
+          [103.8350, 1.4100],
+          [103.8200, 1.4200]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "bke_woodlands_001",
+        "road_name": "Bukit Timah Expressway",
+        "highway": "expressway",
+        "area": "Woodlands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7650, 1.4480],
+          [103.7700, 1.4350],
+          [103.7750, 1.4200]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "woodlands_ring_rd_001",
+        "road_name": "Woodlands Ring Road",
+        "highway": "secondary",
+        "area": "Woodlands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7700, 1.4350],
+          [103.7750, 1.4380],
+          [103.7800, 1.4400]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "marsiling_rd_001",
+        "road_name": "Marsiling Road",
+        "highway": "tertiary",
+        "area": "Marsiling"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7750, 1.4380],
+          [103.7720, 1.4420],
+          [103.7700, 1.4450]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "canberra_rd_001",
+        "road_name": "Canberra Road",
+        "highway": "tertiary",
+        "area": "Sembawang"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8100, 1.4250],
+          [103.8150, 1.4280],
+          [103.8200, 1.4320]
+        ]
+      }
+    }
+  ]
+}

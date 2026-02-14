@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection",
+  "name": "Jurong West Road Network",
+  "description": "Jurong industrial and residential area - Singapore's western industrial hub",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "jurong_town_hall_rd_001",
+        "road_name": "Jurong Town Hall Road",
+        "highway": "primary",
+        "area": "Jurong East"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7400, 1.3330],
+          [103.7430, 1.3340],
+          [103.7460, 1.3350]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "boon_lay_way_001",
+        "road_name": "Boon Lay Way",
+        "highway": "primary",
+        "area": "Jurong West"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7100, 1.3390],
+          [103.7200, 1.3380],
+          [103.7300, 1.3360],
+          [103.7400, 1.3330]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "jurong_west_st_91_001",
+        "road_name": "Jurong West Street 91",
+        "highway": "secondary",
+        "area": "Jurong West"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7000, 1.3400],
+          [103.7050, 1.3395],
+          [103.7100, 1.3390]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "corporation_rd_001",
+        "road_name": "Corporation Road",
+        "highway": "secondary",
+        "area": "Jurong East"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7460, 1.3350],
+          [103.7480, 1.3380],
+          [103.7500, 1.3410]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "yuan_ching_rd_001",
+        "road_name": "Yuan Ching Road",
+        "highway": "secondary",
+        "area": "Jurong West"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7200, 1.3380],
+          [103.7220, 1.3350],
+          [103.7240, 1.3320]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "pioneer_rd_001",
+        "road_name": "Pioneer Road",
+        "highway": "primary",
+        "area": "Pioneer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.6950, 1.3150],
+          [103.7000, 1.3200],
+          [103.7050, 1.3250]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "jalan_ahmad_ibrahim_001",
+        "road_name": "Jalan Ahmad Ibrahim",
+        "highway": "primary",
+        "area": "Jurong Industrial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7050, 1.3250],
+          [103.7100, 1.3300],
+          [103.7200, 1.3380]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tuas_rd_001",
+        "road_name": "Tuas Road",
+        "highway": "primary",
+        "area": "Tuas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.6800, 1.3100],
+          [103.6875, 1.3125],
+          [103.6950, 1.3150]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "ayer_rajah_exp_001",
+        "road_name": "Ayer Rajah Expressway",
+        "highway": "expressway",
+        "area": "Jurong"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7460, 1.3350],
+          [103.7550, 1.3300],
+          [103.7650, 1.3250]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "international_rd_001",
+        "road_name": "International Road",
+        "highway": "secondary",
+        "area": "Jurong East"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7400, 1.3330],
+          [103.7420, 1.3300],
+          [103.7440, 1.3270]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "science_park_dr_001",
+        "road_name": "Science Park Drive",
+        "highway": "tertiary",
+        "area": "Science Park"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7650, 1.3250],
+          [103.7680, 1.3220],
+          [103.7710, 1.3190]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "jurong_pier_rd_001",
+        "road_name": "Jurong Pier Road",
+        "highway": "secondary",
+        "area": "Jurong Port"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.7100, 1.3300],
+          [103.7080, 1.3250],
+          [103.7050, 1.3200]
+        ]
+      }
+    }
+  ]
+}

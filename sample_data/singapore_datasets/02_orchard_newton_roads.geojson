@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "name": "Orchard Newton Road Network",
+  "description": "Orchard Road shopping belt and Newton area - Singapore's premier shopping district",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "orchard_rd_main_001",
+        "road_name": "Orchard Road",
+        "highway": "primary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8200, 1.3020],
+          [103.8280, 1.3045],
+          [103.8360, 1.3060],
+          [103.8420, 1.3070]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "scotts_rd_main_001",
+        "road_name": "Scotts Road",
+        "highway": "secondary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8310, 1.3050],
+          [103.8305, 1.3080],
+          [103.8300, 1.3110],
+          [103.8295, 1.3140]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tanglin_rd_main_001",
+        "road_name": "Tanglin Road",
+        "highway": "primary",
+        "area": "Tanglin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8150, 1.2980],
+          [103.8175, 1.3000],
+          [103.8200, 1.3020]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "paterson_rd_main_001",
+        "road_name": "Paterson Road",
+        "highway": "secondary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8280, 1.3045],
+          [103.8270, 1.3020],
+          [103.8260, 1.2990]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "newton_rd_main_001",
+        "road_name": "Newton Road",
+        "highway": "primary",
+        "area": "Newton"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8295, 1.3140],
+          [103.8340, 1.3160],
+          [103.8400, 1.3180]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "bukit_timah_rd_001",
+        "road_name": "Bukit Timah Road",
+        "highway": "primary",
+        "area": "Newton"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8400, 1.3180],
+          [103.8380, 1.3220],
+          [103.8360, 1.3260]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "somerset_rd_main_001",
+        "road_name": "Somerset Road",
+        "highway": "secondary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8360, 1.3060],
+          [103.8380, 1.3040],
+          [103.8400, 1.3020]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "killiney_rd_001",
+        "road_name": "Killiney Road",
+        "highway": "tertiary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8400, 1.3020],
+          [103.8420, 1.3000],
+          [103.8440, 1.2980]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "cairnhill_rd_main_001",
+        "road_name": "Cairnhill Road",
+        "highway": "tertiary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8360, 1.3060],
+          [103.8350, 1.3090],
+          [103.8340, 1.3120]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "cuscaden_rd_001",
+        "road_name": "Cuscaden Road",
+        "highway": "tertiary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8280, 1.3045],
+          [103.8290, 1.3070],
+          [103.8305, 1.3080]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "grange_rd_main_001",
+        "road_name": "Grange Road",
+        "highway": "secondary",
+        "area": "Orchard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8200, 1.3020],
+          [103.8210, 1.2990],
+          [103.8220, 1.2960]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "nassim_rd_001",
+        "road_name": "Nassim Road",
+        "highway": "tertiary",
+        "area": "Tanglin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.8175, 1.3000],
+          [103.8160, 1.3030],
+          [103.8145, 1.3060]
+        ]
+      }
+    }
+  ]
+}

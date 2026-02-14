@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "name": "Tampines East Road Network",
+  "description": "Tampines and East region - Singapore's eastern residential and commercial hub",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tampines_ave_1_001",
+        "road_name": "Tampines Avenue 1",
+        "highway": "primary",
+        "area": "Tampines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9400, 1.3530],
+          [103.9450, 1.3540],
+          [103.9500, 1.3550]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tampines_ave_4_001",
+        "road_name": "Tampines Avenue 4",
+        "highway": "primary",
+        "area": "Tampines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9500, 1.3550],
+          [103.9520, 1.3580],
+          [103.9540, 1.3610]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tampines_central_001",
+        "road_name": "Tampines Central",
+        "highway": "secondary",
+        "area": "Tampines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9450, 1.3540],
+          [103.9460, 1.3560],
+          [103.9470, 1.3580]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "bedok_north_rd_001",
+        "road_name": "Bedok North Road",
+        "highway": "primary",
+        "area": "Bedok"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9300, 1.3340],
+          [103.9350, 1.3380],
+          [103.9400, 1.3420]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "bedok_reservoir_rd_001",
+        "road_name": "Bedok Reservoir Road",
+        "highway": "secondary",
+        "area": "Bedok"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9200, 1.3380],
+          [103.9250, 1.3390],
+          [103.9300, 1.3400]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "upper_changi_rd_001",
+        "road_name": "Upper Changi Road",
+        "highway": "primary",
+        "area": "Changi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9400, 1.3420],
+          [103.9500, 1.3400],
+          [103.9600, 1.3380]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "simei_ave_001",
+        "road_name": "Simei Avenue",
+        "highway": "secondary",
+        "area": "Simei"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9500, 1.3400],
+          [103.9480, 1.3440],
+          [103.9460, 1.3480]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "pasir_ris_dr_001",
+        "road_name": "Pasir Ris Drive",
+        "highway": "secondary",
+        "area": "Pasir Ris"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9540, 1.3610],
+          [103.9600, 1.3630],
+          [103.9680, 1.3650]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "loyang_ave_001",
+        "road_name": "Loyang Avenue",
+        "highway": "secondary",
+        "area": "Loyang"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9600, 1.3380],
+          [103.9650, 1.3400],
+          [103.9700, 1.3420]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "pie_tampines_001",
+        "road_name": "Pan Island Expressway",
+        "highway": "expressway",
+        "area": "Tampines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9200, 1.3500],
+          [103.9350, 1.3510],
+          [103.9500, 1.3520]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "tampines_st_21_001",
+        "road_name": "Tampines Street 21",
+        "highway": "tertiary",
+        "area": "Tampines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9350, 1.3510],
+          [103.9360, 1.3530],
+          [103.9400, 1.3530]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "new_upper_changi_rd_001",
+        "road_name": "New Upper Changi Road",
+        "highway": "primary",
+        "area": "Bedok"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.9300, 1.3340],
+          [103.9250, 1.3300],
+          [103.9200, 1.3260]
+        ]
+      }
+    }
+  ]
+}
